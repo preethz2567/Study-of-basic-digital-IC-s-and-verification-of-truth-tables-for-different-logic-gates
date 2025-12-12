@@ -64,9 +64,9 @@ Y= A⊕B
 
 # PROGRAM:
 
-Developed by: Abirami N
+Developed by: Preethi D
  
-RegisterNumber: 212224220005
+RegisterNumber: 212224040250
 
 ![image](https://github.com/user-attachments/assets/e520cfb7-1ad6-4804-a6a0-93b1b93859cd)
 
